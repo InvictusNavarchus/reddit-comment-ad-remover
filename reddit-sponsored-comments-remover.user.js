@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Reddit Comment Ad Remover
-// @namespace    https://github.com/InvictusNavarchus/reddit-sponsored-comments-remover
-// @downloadURL  https://raw.githubusercontent.com/InvictusNavarchus/reddit-sponsored-comments-remover/master/reddit-sponsored-comments-remover.user.js
-// @updateURL    https://raw.githubusercontent.com/InvictusNavarchus/reddit-sponsored-comments-remover/master/reddit-sponsored-comments-remover.user.js
+// @namespace    https://github.com/InvictusNavarchus/reddit-comment-ad-remover
+// @downloadURL  https://raw.githubusercontent.com/InvictusNavarchus/reddit-comment-ad-remover/master/reddit-comment-ad-remover.user.js
+// @updateURL    https://raw.githubusercontent.com/InvictusNavarchus/reddit-comment-ad-remover/master/reddit-comment-ad-remover.user.js
 // @icon         https://www.redditinc.com/assets/images/site/reddit-logo.png
 // @version      0.1.0
 // @description  Removes ads from Reddit comment sections based on shreddit-comments-page-ad and shreddit-comment-tree-ad elements.

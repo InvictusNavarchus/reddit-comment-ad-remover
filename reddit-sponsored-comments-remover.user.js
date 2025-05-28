@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         Reddit Comment Ad Remover
-// @namespace    http://tampermonkey.net/
-// @version      0.2
+// @namespace    https://github.com/InvictusNavarchus/reddit-sponsored-comments-remover
+// @downloadURL  https://raw.githubusercontent.com/InvictusNavarchus/reddit-sponsored-comments-remover/master/reddit-sponsored-comments-remover.user.js
+// @updateURL    https://raw.githubusercontent.com/InvictusNavarchus/reddit-sponsored-comments-remover/master/reddit-sponsored-comments-remover.user.js
+// @icon         https://www.redditinc.com/assets/images/site/reddit-logo.png
+// @version      0.1.0
 // @description  Removes ads from Reddit comment sections based on shreddit-comments-page-ad and shreddit-comment-tree-ad elements.
-// @author       Your AI Assistant
+// @author       InvictusNavarchus
 // @match        https://www.reddit.com/r/*/comments/*
 // @match        https://www.reddit.com/
 // @match        https://www.reddit.com/*
